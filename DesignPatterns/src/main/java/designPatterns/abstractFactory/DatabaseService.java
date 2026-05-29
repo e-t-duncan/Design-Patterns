@@ -1,4 +1,4 @@
-package designPatterns.AbstractFactory;
+package designPatterns.abstractFactory;
 
 public class DatabaseService implements Service{
     @Override

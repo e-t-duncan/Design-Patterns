@@ -1,4 +1,4 @@
-package designPatterns.AbstractFactory;
+package designPatterns.abstractFactory;
 
 public class NetworkResponse implements Response{
     @Override
